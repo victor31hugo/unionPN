@@ -1,2 +1,2 @@
 # unionPN
-Apuntes sobre la unión PN de un semiconductor de silicio
+Apuntes sobre la unión PN del semiconductor de silicio
